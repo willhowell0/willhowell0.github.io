@@ -1,0 +1,165 @@
+div{
+	position: absolute;
+}
+
+.rectangle {
+	width: 30px;
+	height: 130px;
+	background-color: blue;
+}
+
+.circle
+ {
+ 	width:60px; 
+ 	height:60px;
+
+  top: 10px;
+  left: 30px;
+  background-color: red; 
+  border-radius: 50%;
+}
+
+.triangle {
+  top: 30px;
+  left: 40px;
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 96px solid rgb(6, 205, 95);
+}
+
+.triangle1 {
+ top: 8px;
+  left: 162px;
+  width: 0;
+  height: 0;
+  border-left: 43px solid transparent;
+  border-right: 43px solid transparent;
+  border-bottom: 130px solid red;
+}
+
+.rectangle1 {
+	width: 35px;
+	height: 135px;
+	left: 285px;
+	background-color: blue;
+}
+
+
+.triangle2 {
+ top: 8px;
+  left: 300px;
+  width: 0;
+  height: 0;
+  border-left: 80px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 140px solid rgb(6, 205, 95);
+transform: scale(1,-1);
+}
+
+.rectangle2 {
+	width: 35px;
+	height: 135px;
+	left: 590px;
+	background-color: blue;
+}
+
+
+
+
+.rectangle3 {
+	width: 35px;
+	height: 135px;
+	left: 430px;
+	background-color: blue;
+}
+
+
+
+.triangle3 {
+ top: 0px;
+  left: 620px;
+  width: 0px;
+  height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 100px solid red;
+  transform: rotate(90deg);
+}
+
+
+
+.triangle4 {
+ top: 30px;
+  left: 620px;
+  width: 0px;
+  height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 100px solid rgb(6, 205, 95);
+  transform: rotate(90deg);
+}
+
+
+.triangle5 {
+ top: 55px;
+  left: 620px;
+  width: 0px;
+  height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 100px solid red;
+  transform: rotate(90deg);
+}
+
+
+.triangle6 {
+ top: -10px;
+  left: 810px;
+  width: 0px;
+  height: 0px;
+  border-left: 0px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 115px solid red;
+  transform: rotate(90deg);
+}
+
+.triangle7 {
+ top: 45px;
+  left: 745px;
+  width: 0px;
+  height: 0px;
+  border-left: 0px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 115px solid red;
+  transform: rotate(-90deg);
+}
+
+
+.triangle8 {
+ top: 8px;
+  left: 440px;
+  width: 0;
+  height: 0;
+  border-left: 55px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 55px solid rgb(6, 205, 95);
+transform: scale(1,-1);
+}
+
+.triangle9 {
+ top: 88px;
+  left: 440px;
+  width: 0;
+  height: 0;
+  border-left: 55px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 55px solid rgb(6, 205, 95);
+transform: scale(1,1);
+}
+
+
+
+
+
