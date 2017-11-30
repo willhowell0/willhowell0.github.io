@@ -1,0 +1,793 @@
+img{
+height: 300px;
+}
+
+.leftblock {
+  position: absolute;
+  top: 55px;
+  left: 550px;
+  width: 800px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage {
+  position: absolute;
+  top: 525px;
+  left: 500px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage1 {
+  position: absolute;
+  top: 200px;
+  left: 500px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage2 {
+  position: absolute;
+  top: 200px;
+  left: 250px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage3 {
+  position: absolute;
+  top: 525px;
+  left: 250px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage4 {
+  position: absolute;
+  top: 850px;
+  left: 250px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage5 {
+  position: absolute;
+  top: 850px;
+  left: 500px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage6 {
+  position: absolute;
+  top: 1180px;
+  left: 950px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.collage7 {
+  position: absolute;
+  top: 850px;
+  left: 985px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage8 {
+  position: absolute;
+  top: 200px;
+  left: 785px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage9 {
+  position: absolute;
+  top: 1180px;
+  left: 250px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage10 {
+  position: absolute;
+  top: 1500px;
+  left: 745px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage11 {
+  position: absolute;
+  top: 520px;
+  left: 970px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage12 {
+  position: absolute;
+  top: 1180px;
+  left: 500px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage13 {
+  position: absolute;
+  top: 1500px;
+  left: 250px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.collage14 {
+  position: absolute;
+  top: 1180px;
+  left: 750px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.logo {
+  position: absolute;
+  top: 1900px;
+  left: 950px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.date {
+  position: absolute;
+  top: 500px;
+  left: 15px;
+  width: 800px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.date2 {
+  position: absolute;
+  top: 1300px;
+  left: 15px;
+  width: 800px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.link{
+  position: absolute;
+  top: 2280px;
+  left: 250px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.link2{
+  position: absolute;
+  top: 2280px;
+  left: 500px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.link3{
+  position: absolute;
+  top: 2280px;
+  left: 750px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.link4{
+  position: absolute;
+  top: 2280px;
+  left: 1025px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+
+.rightblock {
+  position: absolute;
+  top: 1850px;
+  left: 250px;
+  width: 800px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+
+.manutbol {
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.manutboltext {
+  position: absolute;
+  top: 250px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.mosesmalone {
+  position: absolute;
+  top: 650px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.mosesmalonetext {
+  position: absolute;
+  top: 650px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.michaeljordan {
+  position: absolute;
+  top: 1000px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.michaeljordantext {
+  position: absolute;
+  top: 1000px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.wizardslogo {
+  position: absolute;
+  top: 5px;
+  left: 1000px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.wesunseld {
+  position: absolute;
+  top: 1500px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.wesunseldtext {
+  position: absolute;
+  top: 1500px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.elvinhayes {
+  position: absolute;
+  top: 2000px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.elvinhayestext {
+  position: absolute;
+  top: 2000px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.chriswebber {
+  position: absolute;
+  top: 2500px;
+  left: 200px;
+  width: 900px; 
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+
+.chriswebbertext {
+  position: absolute;
+  top: 2500px;
+  font-family: 'Montserrat', sans-serif;
+  left: 550px;
+  width: 800px; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 25px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.alumnitext{
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+.logo1{
+  position: absolute;
+  top: 250px;
+  left: 700px;
+  width: 800px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.logotext{
+  position: absolute;
+  top: 250px;
+  left: 100px;
+  width: 600px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.logotitletext{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historytext{
+  position: absolute;
+  top: 200px;
+  left: 250px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historylogo{
+  position: absolute;
+  top: 250px;
+  left: 1000px;
+  width: 800px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historylogo5{
+  position: absolute;
+  top: 1800px;
+  left: 250px;
+  width: 800px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historytext2{
+  position: absolute;
+  top: 350px;
+  left: 800px;
+  width: 700px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historytext3{
+  position: absolute;
+  top: 1055px;
+  left: 250px;
+  width: 700px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.historypicture1{
+  position: absolute;
+  top: 250px;
+  left: 250px;
+  width: 700px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+.historypicture2{
+  position: absolute;
+  top: 1250px;
+  left: 1000px;
+  width: 700px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+
+.recordstext{
+  position: absolute;
+  top: 200px;
+  left: 150px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.recordslogo{
+  position: absolute;
+  top: 175px;
+  left: 1075px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.recordstext2{
+  position: absolute;
+  top: 279px;
+  left: 150px;
+  width: 1500px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.headers{
+  position: absolute;
+  top: 250px;
+  left: 150px;
+  width: 1500px;
+  font-family: 'Anton', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+.alumnilogo{
+  position: absolute;
+  top: 3000px;
+  left: 1075px;
+  width: 1000px;
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 25px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
