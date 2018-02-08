@@ -1,0 +1,208 @@
+.title {
+	font-family: Helvetica;
+	font-size: 70px;
+	line-height: 5px;
+	color: white;
+	position: absolute;
+	z-index: 10;
+
+}
+
+
+
+.mobileexhibitinfo {
+font-family: helvetica; 
+	font-size: 23px;
+	line-height: 25px;
+	color: white;
+	top: 1000px;
+	position: absolute;
+	display: none;
+
+}
+
+
+.downarrow {
+position: absolute;
+top: 690px;
+left: 600px;
+}
+
+
+.exhibitinfo {
+	font-family: helvetica; 
+	font-size: 23px;
+	line-height: 25px;
+	color: white;
+	top: 1000px;
+	position: absolute;
+}
+
+.sponsors {
+	font-family: helvetica; 
+	font-size: 23px;
+	line-height: 25px;
+	color: white;
+	top: 1600px;
+	position: absolute;
+}
+
+.background-container {
+	width: 100vw;
+	height: 100vh;
+	background-image: url(background.gif);
+	background-size: contain;
+	background-position: center center;
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+
+}
+
+
+.info h1:hover {
+	color: grey;
+
+}
+
+.info {
+	
+	position: absolute;
+	font-size: 40px;
+	top: 290px;
+	line-height: 20px;
+	left: 10px;
+	font-family: Helvetica;
+	color: white;
+}
+
+.address {
+position: absolute;
+top: 700px;
+font-size: 20px;
+font-family: Helvetica;
+color: white;
+
+}
+
+.logo{
+	position: fixed;
+	background-image: url(whitneylogo.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	top: 650px;
+	right: 15px;
+	width: 20vw;
+	height: 20vh;
+	z-index: 10;
+}
+
+.photo {
+	position:absolute;
+	top: 0px;
+	right: 50px;
+	
+	background-image: url(andyflower.jpg);
+	background-size: cover;
+	background-position: center center;
+	width: 68vw;
+	height: 58vw;
+	z-index: -1;
+
+}
+
+@media (max-width: 600px){
+.background-container {
+	background-image: url("andypicture.png");
+}
+
+h1 {
+	font-size: 25px;
+}
+
+.title {
+	font-size: 25px;
+	display: none;
+}
+
+.mobileexhibitinfo {
+	top:1100px;
+	font-size: 15px;
+	top: 1200px;
+	line-height: 15px;
+	display: inline;
+}
+
+.exhibitinfo {
+	display: none;
+}
+
+.info5 {
+	font-size: 45px;
+	z-index: 10;
+	width: 400px;
+	left: 25px;
+	top: -100px;
+	position: absolute;
+}
+
+.info1  {
+	display: none;
+}
+.info2 {
+	display: none;
+}
+.info3 {
+	display: none;
+}
+.info4 {
+	display: none;
+}
+
+.photo {
+	display: none;
+	position: fixed;
+	background-size: contain;
+}
+
+
+.address {
+font-size: 12px;
+
+}
+
+.logo{
+width: 25vw;
+height: 25vh;
+top: 0px;
+left: 0px;
+}
+
+
+
+
+@keyframes info1 {
+	0% {
+		color: red;
+	}
+	19%{
+		color: red;
+	}
+20% {
+	color: white;
+}
+100% {
+	color: white;
+}
+
+}
+
+
+
+
+
+
+
