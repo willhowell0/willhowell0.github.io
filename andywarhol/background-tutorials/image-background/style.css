@@ -1,0 +1,14 @@
+.background-container {
+	width:100vw;
+	height:100vh;
+	background-color: red; 
+	background-image: url("design-animated.gif");
+	background-size: cover; 
+	background-position: center center;
+
+position: fixed;
+top: 0;
+left: 0;
+z-index: -1;
+
+}

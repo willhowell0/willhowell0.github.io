@@ -8,6 +8,46 @@
 
 }
 
+.gif {
+	position: absolute;
+	top: 1000px;
+	left: 900px;
+
+}
+
+
+
+.box{
+	display: none;
+}
+
+.circle1 {
+	display: none;
+}
+
+.circle2 {
+	display: none;
+}
+
+.tickets {
+	position: absolute;
+	top: 1200px;
+	left: 900px;
+
+}
+
+
+.bankofamerica {
+	position: absolute;
+	top: 1625px;
+	left: 15px;
+}
+
+.sothebys {
+	position: absolute;
+	top: 1700px;
+	left: 15px;
+}
 
 
 .mobileexhibitinfo {
@@ -20,6 +60,18 @@ font-family: helvetica;
 	display: none;
 
 }
+
+.titleinfo {
+	font-size: 23px;
+	font-family: helvetica;
+	color: white;
+	position: absolute;
+	top: 950px;
+	left: 15px;
+	line-height: 25px;
+
+}
+
 
 
 .downarrow {
@@ -35,6 +87,7 @@ left: 600px;
 	line-height: 25px;
 	color: white;
 	top: 1000px;
+	left: 15px;
 	position: absolute;
 }
 
@@ -103,7 +156,7 @@ color: white;
 .photo {
 	position:absolute;
 	top: 0px;
-	right: 50px;
+	right: 38px;
 	
 	background-image: url(andyflower.jpg);
 	background-size: cover;
@@ -119,8 +172,65 @@ color: white;
 	background-image: url("andypicture.png");
 }
 
+
+.circle1 {
+	display: inline;
+	position: fixed;
+	top: 450px;
+	left: 150px;
+
+
+}
+
+.circle2 {
+	display: inline;
+	position: fixed;
+	top: 480px;
+	left: 150px;
+}
+
+.downarrow {
+display: none;
+}
+
+
+
+
+
+
+
+
 h1 {
 	font-size: 25px;
+	position: absolute;
+	top: 500px;
+}
+
+.tickets {
+	display: inline;
+	position: absolute;
+	top: 1160px;
+	left: -10px;
+
+}
+.titleinfo {
+	top: 1000px;
+	position: absolute;
+	font-size: 15px;
+	left: 200px;
+	font-family: helvetica;
+	letter-spacing: 2px;
+
+
+}
+
+
+.box {
+	position: absolute;
+	top: 840px;
+	display: inline;
+	left: -360px;
+	z-index: -1;
 }
 
 .title {
@@ -129,11 +239,12 @@ h1 {
 }
 
 .mobileexhibitinfo {
-	top:1100px;
+	top:1045px;
 	font-size: 15px;
-	top: 1200px;
-	line-height: 15px;
+	line-height: 20px;
 	display: inline;
+	font-family: helvetica;
+
 }
 
 .exhibitinfo {
@@ -177,12 +288,23 @@ font-size: 12px;
 .logo{
 width: 25vw;
 height: 25vh;
-top: 0px;
+top: -50px;
 left: 0px;
+position: absolute;
 }
 
+.sponsors {
+	font-size: 15px;
+	top: 1525px;
+}
 
+.bankofamerica {
+	top: 1550px;
+}
 
+.sothebys {
+	top: 1630px;
+}
 
 @keyframes info1 {
 	0% {

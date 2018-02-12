@@ -1,0 +1,45 @@
+body {
+	background-color: rgb(80, 200, 250);
+
+	animation-name: bodyanime;
+	animation-duration: 3s;
+	animation-iteration-count: 1s;
+	animation-fill-mode: forwards;
+}
+
+
+.sun {
+	background-color: rgb(220,20,45);
+height: 200px;
+width: 200px;
+border-radius: 50%;
+margin-top: 0px;
+
+animation-name: sunset;
+animation-duration: 3s;
+animation-iteration-count: 1s;
+animation-fill-mode: forwards;
+}
+
+@keyframes sunset {
+0% {
+	margin-top: 0;
+	background-color: rgb(220, 20, 45);
+	}
+	100% {
+		margin-top: 100vh;
+		background-color: rgb(20,80,125);
+	}
+}
+
+
+@keyframes bodyanime{
+	0%{
+		margin-top: 0;
+		background-color: rgba(80,200,250);
+	}
+	100%{
+		margin-top: 100vh;
+		background-color: rgb(150,200,4);
+	}
+}
