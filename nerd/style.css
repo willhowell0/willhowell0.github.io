@@ -1,0 +1,146 @@
+html, body {
+  margin: 0;
+  font-family: helvetica;
+  font-size: 25px;
+  padding: 0;
+}
+
+
+h1 {
+	position: absolute;
+	left: 1050px;
+	top: 0px;
+
+}
+h2 {
+	position: absolute;
+	top: 50px;
+}
+
+.title {
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	font-size: 35px;
+
+}
+
+.title3 {
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	font-size: 35px;
+	width: 300px;
+
+}
+
+.title4 {
+	position: absolute;
+	top: -50px;
+	left: 10px;
+	font-size: 35px;
+	width: 300px;
+
+}
+
+
+.article2 {
+	position: absolute;
+	top: 5850px;
+	left: 10px;
+	font-size: 20px;
+}
+.article3{
+	position: absolute;
+	top: 6100px;
+	left: 10px;
+	font-size: 20px;
+}
+
+.article4{
+	position: absolute;
+	top: 2900px;
+	left: 10px;
+	font-size: 20px;
+}
+
+.bodytext{
+position: absolute;
+font-size: 18px;
+width: 900px;
+left: 10px;
+top: 500px;
+line-height: 25px;
+}
+
+.bodytext3 {
+position: absolute;
+font-size: 18px;
+width: 900px;
+left: 10px;
+top: 600px;
+line-height: 25px;
+}
+
+.bodytext4 {
+position: absolute;
+font-size: 18px;
+width: 900px;
+left: 10px;
+top: 650px;
+line-height: 25px;
+}
+
+
+.bodytext5{
+position: absolute;
+font-size: 18px;
+width: 900px;
+left: 10px;
+top: 350px;
+line-height: 25px;
+}
+
+.logo{
+	position: absolute;
+	left: 1050px;
+	top: -25px;
+}
+
+.image {
+position: absolute;
+	left: 15px;
+	top: 1060px;
+}
+
+
+.image2 {
+position: absolute;
+	left: 800px;
+	top: 0px;
+}
+
+.image3 {
+position: absolute;
+	left: 500px;
+	top: 0px;
+}
+
+.image4{
+position: absolute;
+	left: 500px;
+	top: 0px;
+}
+
+.title2 {
+	position: absolute;
+	top: 1000px;
+	width: 300px;
+}
+
+.bodytext2{
+	position: absolute;
+width: 900px;
+top: 4000px;
+
+}
