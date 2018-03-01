@@ -1,36 +1,58 @@
 html, body {
   margin: 0;
   font-family: helvetica;
-  font-size: 25px;
+  font-size: 25px;33
   padding: 0;
+}
+
+body {
+	width: 90vw;
+	margin-left: 5vw;
+	font-size: 17px;
+	line-height: 25px;
+font-family: helvetica;
+
 }
 
 
 h1 {
-	position: absolute;
-	left: 1050px;
-	top: 0px;
+	margin-top: 0;
+	margin-bottom: 23px;
+	text-align: center;
+}
 
+
+p {
+font-size: 17px;
+font-family: helvetica;
+line-height: 25px;
+margin-top: 0;
+margin-bottom: 0;
 }
-h2 {
-	position: absolute;
-	top: 50px;
+
+
+img {
+margin-top: 10px;
+margin-bottom: 10px;
+width: 100%;
 }
+
 
 .title {
 	position: absolute;
 	top: 0px;
 	left: 10px;
 	font-size: 35px;
-
+	
 }
 
 .title3 {
 	position: absolute;
-	top: 0px;
+	top: 4000px;
 	left: 10px;
-	font-size: 35px;
+	font-size: 50px;
 	width: 300px;
+	
 
 }
 
@@ -40,37 +62,52 @@ h2 {
 	left: 10px;
 	font-size: 35px;
 	width: 300px;
-
 }
+
+
+.article {
+	position: absolute;
+	top: 9900px;
+	left: 10px;
+	font-size: 25px;
+}
+
+
 
 
 .article2 {
 	position: absolute;
-	top: 5850px;
+	top: 6900px;
 	left: 10px;
-	font-size: 20px;
+	font-size: 50px;
+	
 }
 .article3{
 	position: absolute;
-	top: 6100px;
+	top: 22988px;
 	left: 10px;
-	font-size: 20px;
+	font-size: 50px;
+
 }
 
 .article4{
 	position: absolute;
-	top: 2900px;
+	top: 8000px;
 	left: 10px;
-	font-size: 20px;
+	font-size: 50px;
+	
 }
 
 .bodytext{
 position: absolute;
 font-size: 18px;
+line-height: 23px;
+margin-top: 0;
+margin-bottom: 0;
 width: 900px;
-left: 10px;
 top: 500px;
 line-height: 25px;
+
 }
 
 .bodytext3 {
@@ -80,6 +117,7 @@ width: 900px;
 left: 10px;
 top: 600px;
 line-height: 25px;
+
 }
 
 .bodytext4 {
@@ -89,6 +127,7 @@ width: 900px;
 left: 10px;
 top: 650px;
 line-height: 25px;
+
 }
 
 
@@ -99,6 +138,7 @@ width: 900px;
 left: 10px;
 top: 350px;
 line-height: 25px;
+
 }
 
 .logo{
@@ -134,13 +174,13 @@ position: absolute;
 
 .title2 {
 	position: absolute;
-	top: 1000px;
+	top: 20px;
 	width: 300px;
 }
 
 .bodytext2{
 	position: absolute;
 width: 900px;
-top: 4000px;
+top: 300px;
 
 }
