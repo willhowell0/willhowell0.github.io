@@ -29,7 +29,9 @@ a {
 
 
 .gummy {
+  position: relative;
   background-image: url(throughtheyears.png); 
+  left: -5vw;
 }
 
 .menu {
