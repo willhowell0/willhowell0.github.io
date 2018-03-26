@@ -1,0 +1,288 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background-image: url(rainbackground.png);
+}
+
+.cloud1 {
+  background-image: url(rainbackground.png);
+position: absolute;
+ background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;
+  animation-name: sky;
+  animation-duration: 10s;
+  animation-iteration-count: infinite; 
+}
+
+
+
+body.alarming {
+  background-image: url(2.png);
+
+}
+
+
+
+.hour {
+  position: absolute;
+  top: -10vw;
+  left: 40vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  background-image: url(cloud.png);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;
+  animation-name: cloud;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;  
+}
+
+.hour.alarming {
+  opacity: 0;
+}
+
+
+.button {
+  position: absolute;
+  top: -5vw;
+  left: -15vw;
+  width: 50vw;
+  height: 50vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: contain;  
+  background-repeat: no-repeat;
+  animation-name: sun;
+  animation-duration: 60s;
+  animation-iteration-count: infinite;  
+  background-image: url(sun.png);
+}
+
+
+.raindrop {
+  position: absolute;
+  top: 0vw;
+  left: 17vw;
+  width: 75vw;
+  height: 75vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 0px;
+  margin-top: 5px;
+  background-image: url(RAIN.gif);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: rain;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;  
+}
+
+
+.mound {
+  position: absolute;
+  top: 15vw;
+  left: 24vw;
+  width: 50vw;
+  height: 50vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 20px;
+  background-image: url(dirt.png);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-duration: 6s;
+  animation-iteration-count: infinite;  
+}
+
+.bud {
+  position: absolute;
+  bottom: 40vh;
+  left: 0vw;
+  right: 0vw;
+  width: 40vw;
+  opacity: 0;
+  height: 40vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 20px;
+  background-image: url(bud.png);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: showbud;
+  animation-duration: 30s;
+  animation-iteration-count: 60;
+  animation-fill-mode: forwards;
+    
+}
+
+.pedal {
+  position: absolute;
+  bottom: 15vh;
+  left: 2vw;
+  right: 7vw;
+  width: 40vw;
+  opacity: 0;
+  height: 40vw;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 0px;
+  background-image: url(pedal.png);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: pedal;
+  animation-duration: 30s;
+  animation-iteration-count: 60;
+  animation-fill-mode: forwards;
+    
+}
+
+
+
+
+.minute {
+  position: absolute;
+  bottom: 10vh;
+  left: 0vw;
+  right: 0vw;
+  width: 4vw;
+  height: 8vh;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-bottom: 20px;
+  background-image: url(stem.svg);
+  background-size: cover;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: stem;
+  animation-duration: 30s;
+  animation-iteration-count: 60;
+  animation-fill-mode: forwards;  
+}
+
+.second {
+  display: none;
+  position: absolute;
+  top: 10vw;
+  left: 70vw;
+  width: 20vw;
+  height: 20vw;
+  margin-left: auto;
+  margin-right: auto;  
+  background-image: url(sun.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  animation-name: ;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes stem {
+0% {
+  height: 8vh;
+  }
+  90% {
+    height: 50vh;
+  }
+100% {
+  height: 50vh;
+  }
+}
+
+@keyframes rain {
+
+  90% {
+    height: 50vh;
+
+  }
+100% {
+  opacity: 0;
+  height: 50vh;
+  }
+}
+
+@keyframes sun {
+0% {
+  opacity: 0;
+}
+95% {
+  opacity: 1;
+}
+100% {
+opacity: 1;
+}
+
+}
+
+@keyframes pedal {
+0% {
+  opacity: 0;
+}
+90% {
+  opacity: 0;
+}
+
+100% {
+opacity: 1;
+}
+
+}
+
+
+@keyframes cloud {
+0% {
+  opacity: 1;
+
+}
+
+50% {
+  opacity: 0;
+
+}
+
+90% {
+  opacity: 0;
+}
+
+100% {
+opacity: 0;
+}
+
+}
+
+@keyframes sky {
+0% {
+  opacity: 0;
+}
+
+
+100% {
+opacity: 1;
+}
+
+}
+
+
+
+@keyframes showbud {
+0% {
+  opacity: 0;
+}
+
+90% {
+  opacity: 0;
+}
+100% {
+opacity: 1;
+}
+
+}
