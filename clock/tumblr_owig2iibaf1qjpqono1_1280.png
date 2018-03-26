@@ -1,0 +1,11 @@
+$(document).ready(function() {
+  // $(".myDiv").css("background-color", "red");
+
+  // $(".myDiv").css("width", "400px");
+
+  // $(".myDiv").animate({"width" : "400px"}, 1000);
+
+  // setTimeout(function() {
+  //   $(".myDiv").css("height", "800px");
+  // }, 3000);
+});
